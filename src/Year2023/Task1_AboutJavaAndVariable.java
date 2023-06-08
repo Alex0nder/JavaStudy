@@ -51,5 +51,17 @@ public class Task1_AboutJavaAndVariable {
     // Month = daysInMonth[0] = 31
     // [0][1][2][3][4][5][6][7][8][9][10][11]
 
+    // ***************************
+    // Methods
+    // type NameMethods
+    // (list_options) {
+    // Head methods;
+    // ...
+    // return type }
+    // If method don't return no data = so type method = void
+    // If the method does not take any parameters      = ()
+    // If the method returns data                      = return
+    // Method = NameVariable.method();                 = Call method
+    // The type of data returned must match the type specified when declaring the method
 
 }
