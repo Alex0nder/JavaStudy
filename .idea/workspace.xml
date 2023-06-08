@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task24_SeasonsInTheYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/OOP/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/OOP/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,20 @@
       <recent name="$PROJECT_DIR$/src/Year2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task24_SeasonsInTheYear">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.OOP.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task23_GapInKnowledge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year2023.Task23_GapInKnowledge" />
       <module name="JavaStudy" />
@@ -78,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task24_SeasonsInTheYear" />
         <item itemvalue="Application.Task23_GapInKnowledge" />
       </list>
@@ -113,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686196230159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add task 24 - Seasons in the Year">
+      <created>1686197722185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686197722185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add task 24 - Seasons in the Year">
+      <created>1686197881643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686197881643</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +172,7 @@
     <MESSAGE value="The mistake of the merge and crookedness. I'm deleting the main branch and merge to the main one" />
     <MESSAGE value="Add task for last week" />
     <MESSAGE value="Add all projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all projects" />
+    <MESSAGE value="Add task 24 - Seasons in the Year" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task 24 - Seasons in the Year" />
   </component>
 </project>
