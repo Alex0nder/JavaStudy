@@ -3,7 +3,7 @@ package Year2023;
 public class Task24_SeasonsInTheYear {
     public static void main(String[] args) {
         //Long and bad code
-        //Add default month
+        //Loop if else
         String month = "September";
         if (month.equals("December") || month.equals("January") || month.equals("February")) {
             System.out.println("Winter");
@@ -18,6 +18,7 @@ public class Task24_SeasonsInTheYear {
         }
 
         //Short and good code
+        //Switch case
         month = "June";
         switch (month) {
             case "December":
@@ -43,7 +44,6 @@ public class Task24_SeasonsInTheYear {
             default:
                 System.out.println("This month does not exist");
                 break;
-
         }
     }
 }
