@@ -1,4 +1,4 @@
-package Year2023.Task25_OOP;
+package Year2023.Task25_OOP_Methods;
 
 public class Main {
     public static void main(String[] args) {

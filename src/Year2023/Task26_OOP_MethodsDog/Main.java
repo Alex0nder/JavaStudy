@@ -1,4 +1,4 @@
-package Year2023.Task25_OOP_Dog;
+package Year2023.Task26_OOP_MethodsDog;
 
 public class Main {
     public static void main(String[] args) {
