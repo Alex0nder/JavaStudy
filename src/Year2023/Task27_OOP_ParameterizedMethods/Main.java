@@ -13,6 +13,7 @@ public class Main {
 
         Box box = new Box();
         box.setDimens(15, 15, 15);
+        //calculate the volume
         System.out.println(box.volume());
     }
 }
