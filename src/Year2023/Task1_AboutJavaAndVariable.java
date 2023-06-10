@@ -69,6 +69,10 @@ public class Task1_AboutJavaAndVariable {
     // NameClass(list_parameterized) {
     // head constructor;
     // ... }
+
+    // ***************************
+    // Overload
+    // feature of Java in which a class has more than one method of the same name and their parameters are different
     //
 
 }
