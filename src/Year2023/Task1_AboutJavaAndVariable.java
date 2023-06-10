@@ -64,4 +64,11 @@ public class Task1_AboutJavaAndVariable {
     // Method = NameVariable.method();                 = Call method
     // The type of data returned must match the type specified when declaring the method
 
+    // ***************************
+    // Constructor
+    // NameClass(list_parameterized) {
+    // head constructor;
+    // ... }
+    //
+
 }
