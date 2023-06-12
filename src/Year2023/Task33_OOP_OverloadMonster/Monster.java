@@ -30,7 +30,6 @@ public class Monster {
         this.hands = hands;
         this.legs = 2;
     }
-
     Monster(int eyes, int hands, int legs) {
         this.eyes = eyes;
         this.hands = hands;

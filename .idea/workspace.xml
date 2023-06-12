@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task33_OOP_OverloadMonster/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task33_OOP_OverloadMonster/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task34_OOP_ObjectsAsParameters/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task34_OOP_ObjectsAsParameters/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Year2023/Task33_OOP_OverloadMonster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year2023/Task33_OOP_OverloadMonster/Monster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,26 +51,13 @@
       <recent name="$PROJECT_DIR$/src/Year2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Year2023.Task33_OOP_OverloadMonster.Main">
+  <component name="RunManager" selected="Application.Year2023.Task34_OOP_ObjectsAsParameters.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year2023.Task32_OOP_OverloadConstructor.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Year2023.Task32_OOP_OverloadConstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Year2023.Task29_OOP_Constructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task29_OOP_Constructor.Main" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year2023.Task29_OOP_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Year2023.Task34_OOP_ObjectsAsParameters.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task34_OOP_ObjectsAsParameters.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task34_OOP_ObjectsAsParameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Year2023.Task34_OOP_ObjectsAsParameters.Main" />
         <item itemvalue="Application.Year2023.Task33_OOP_OverloadMonster.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Year2023.Task31_OOP_Overload.Main" />
         <item itemvalue="Application.Year2023.Task30_OOP_Employee.Main" />
-        <item itemvalue="Application.Year2023.Task29_OOP_Constructor.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686359835829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task 33 Overload in Monster">
+      <created>1686364209907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364209907</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +257,7 @@
     <MESSAGE value="OOP Parameterized Methods and Rect task" />
     <MESSAGE value="OOP - Constructor and task Employee" />
     <MESSAGE value="OOP - Overload and Overload in Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP - Overload and Overload in Constructor" />
+    <MESSAGE value="Task 33 Overload in Monster" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 33 Overload in Monster" />
   </component>
 </project>
