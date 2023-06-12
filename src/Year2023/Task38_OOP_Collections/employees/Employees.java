@@ -1,4 +1,4 @@
-package Year2023.Task38_OOP_Collections.array;
+package Year2023.Task38_OOP_Collections.employees;
 
 public class Employees {
     public static void main(String[] args) {

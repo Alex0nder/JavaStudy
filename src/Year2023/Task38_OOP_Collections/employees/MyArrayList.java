@@ -1,4 +1,4 @@
-package Year2023.Task38_OOP_Collections.array;
+package Year2023.Task38_OOP_Collections.employees;
 
 public class MyArrayList {
     private String[] array = new String[10];
