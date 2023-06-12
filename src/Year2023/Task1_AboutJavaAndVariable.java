@@ -75,4 +75,9 @@ public class Task1_AboutJavaAndVariable {
     // feature of Java in which a class has more than one method of the same name and their parameters are different
     //
 
+    // ***************************
+    // Encapsulation
+    // All fields must be Private
+    // Methods witch use other classes must be Public, other Privet
+
 }
