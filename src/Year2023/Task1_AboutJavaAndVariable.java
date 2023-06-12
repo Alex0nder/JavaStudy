@@ -80,4 +80,16 @@ public class Task1_AboutJavaAndVariable {
     // All fields must be Private
     // Methods witch use other classes must be Public, other Privet
 
+    // ***************************
+    // Collections
+    // int size = 0;
+    // add(String s);
+    // => array[size] = s; size++;
+    // remove(int index);
+    // [1][2][3][4][5][6][7][8][9][10]
+    // size == 10
+
+    // getSize();
+    // get(int index);
+
 }
