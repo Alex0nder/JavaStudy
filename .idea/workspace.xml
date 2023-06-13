@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="Task 35 to 35 - Modifiers and Parameters">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task37_OOP_StaticFinalArguments/box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task37_OOP_StaticFinalArguments/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task37_OOP_StaticFinalArguments/test/MyMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task37_OOP_StaticFinalArguments/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task38_OOP_Collections/array/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task38_OOP_Collections/array/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task38_OOP_Collections/main/Main.java" afterDir="false" />
+    <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task39_OOP_Pars/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task39_OOP_Pars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task40_OOP_ParsArray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task40_OOP_ParsArray/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task42_OOP_ArrayListName/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Year2023/Task1_AboutJavaAndVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year2023/Task1_AboutJavaAndVariable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +55,13 @@
       <recent name="$PROJECT_DIR$/src/Year2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employees">
+  <component name="RunManager" selected="Application.Year2023.Task42_OOP_ArrayListName.Main">
     <configuration name="Employees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task38_OOP_Collections.array.Employees" />
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task38_OOP_Collections.employees.Employees" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task38_OOP_Collections.array.*" />
+          <option name="PATTERN" value="Year2023.Task38_OOP_Collections.employees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task38_OOP_Collections.main.Main" />
+    <configuration name="Year2023.Task39_OOP_Pars.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task39_OOP_Pars.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task38_OOP_Collections.main.*" />
+          <option name="PATTERN" value="Year2023.Task39_OOP_Pars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task35_OOP_ObjectBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task35_OOP_ObjectBox.Main" />
+    <configuration name="Year2023.Task40_OOP_ParsArray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task40_OOP_ParsArray.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task35_OOP_ObjectBox.*" />
+          <option name="PATTERN" value="Year2023.Task40_OOP_ParsArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task36_OOP_Modifiers.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task36_OOP_Modifiers.main.Main" />
+    <configuration name="Year2023.Task41_OOP_CollectionsArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task41_OOP_CollectionsArrayList.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task36_OOP_Modifiers.main.*" />
+          <option name="PATTERN" value="Year2023.Task41_OOP_CollectionsArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task37_OOP_StaticFinalArguments.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task37_OOP_StaticFinalArguments.main.Main" />
+    <configuration name="Year2023.Task42_OOP_ArrayListName.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task42_OOP_ArrayListName.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task37_OOP_StaticFinalArguments.main.*" />
+          <option name="PATTERN" value="Year2023.Task42_OOP_ArrayListName.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Year2023.Task42_OOP_ArrayListName.Main" />
+        <item itemvalue="Application.Year2023.Task41_OOP_CollectionsArrayList.Main" />
+        <item itemvalue="Application.Year2023.Task40_OOP_ParsArray.Main" />
+        <item itemvalue="Application.Year2023.Task39_OOP_Pars.Main" />
         <item itemvalue="Application.Employees" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Year2023.Task37_OOP_StaticFinalArguments.main.Main" />
-        <item itemvalue="Application.Year2023.Task36_OOP_Modifiers.main.Main" />
-        <item itemvalue="Application.Year2023.Task35_OOP_ObjectBox.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686532978329</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Collections">
+      <created>1686538702731</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538702732</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Collections">
+      <created>1686538750960</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538750960</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +292,7 @@
     <MESSAGE value="Task 33 Overload in Monster" />
     <MESSAGE value="Task 33 Overload in Monster and task 34 Parameters" />
     <MESSAGE value="Task 35 to 35 - Modifiers and Parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 35 to 35 - Modifiers and Parameters" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
 </project>
