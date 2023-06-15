@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task39_OOP_Pars/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task39_OOP_Pars/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task40_OOP_ParsArray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task40_OOP_ParsArray/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task42_OOP_ArrayListName/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task43_OOP_Inheritance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task43_OOP_Inheritance/CatFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task43_OOP_Inheritance/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task43_OOP_Inheritance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +52,13 @@
       <recent name="$PROJECT_DIR$/src/Year2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Year2023.Task42_OOP_ArrayListName.Main">
-    <configuration name="Employees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task38_OOP_Collections.employees.Employees" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task43_OOP_Inheritance.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task38_OOP_Collections.employees.*" />
+          <option name="PATTERN" value="Year2023.Task43_OOP_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Year2023.Task42_OOP_ArrayListName.Main" />
         <item itemvalue="Application.Year2023.Task41_OOP_CollectionsArrayList.Main" />
         <item itemvalue="Application.Year2023.Task40_OOP_ParsArray.Main" />
         <item itemvalue="Application.Year2023.Task39_OOP_Pars.Main" />
-        <item itemvalue="Application.Employees" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686538750960</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Pars, Collections, ArrayList (Task 39 to 42)">
+      <created>1686626741309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686626741309</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +297,7 @@
     <MESSAGE value="Task 33 Overload in Monster and task 34 Parameters" />
     <MESSAGE value="Task 35 to 35 - Modifiers and Parameters" />
     <MESSAGE value="Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
+    <MESSAGE value="Pars, Collections, ArrayList (Task 39 to 42)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pars, Collections, ArrayList (Task 39 to 42)" />
   </component>
 </project>
