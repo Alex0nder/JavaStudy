@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="add ignore file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SAVE_CHANGES_POLICY" value="STASH" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="828ad404-b1c2-40fb-aa26-42d859050387" />
+        <option name="url" value="https://github.com/Alex0nder/JavaStudy.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QtyplCnzZuEqp9NNRnC1bzJdKq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alex0nder/Desktop/Study/Year2023/src/Year2023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Year2023" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Year2023" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Year2023.Task51_Multithreading" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Year2023.Task55_JUnitTest.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task54_TimerRandom.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task54_TimerRandom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task53_Multithreading.Timer1" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task53_Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task53_Multithreading.Timer2" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task53_Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Year2023.Task52_RandomNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task52_RandomNumber.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task52_RandomNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Year2023.Task55_JUnitTest.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task55_JUnitTest.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year2023.Task55_JUnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Timer2" />
+        <item itemvalue="Application.Timer1" />
+        <item itemvalue="Application.Year2023.Task52_RandomNumber.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="" />
+      <created>1686187356610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686187356610</updated>
+    </task>
+    <task id="LOCAL-00001" summary="The mistake of the merge and crookedness. I'm deleting the main branch and merge to the main one">
+      <created>1686193185568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686193185568</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add task for last week">
+      <created>1686196156651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686196156651</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add all projects">
+      <created>1686196230159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686196230159</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add task 24 - Seasons in the Year">
+      <created>1686197722185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686197722185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add task 24 - Seasons in the Year">
+      <created>1686197881643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686197881643</updated>
+    </task>
+    <task id="LOCAL-00006" summary="OOP - reference types">
+      <created>1686199155339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686199155339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="OOP - void and return">
+      <created>1686257701250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686257701250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="OOP Methods - Basic and Parameterized Method">
+      <created>1686275479741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686275479741</updated>
+    </task>
+    <task id="LOCAL-00009" summary="OOP Parameterized Methods and Rect task">
+      <created>1686355172379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686355172379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="OOP - Constructor and task Employee">
+      <created>1686357522533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686357522533</updated>
+    </task>
+    <task id="LOCAL-00011" summary="OOP - Overload and Overload in Constructor">
+      <created>1686359835829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686359835829</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task 33 Overload in Monster">
+      <created>1686364209907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686364209907</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task 33 Overload in Monster and task 34 Parameters">
+      <created>1686528623483</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686528623484</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task 35 to 35 - Modifiers and Parameters">
+      <created>1686532978329</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686532978329</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Collections">
+      <created>1686538702731</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538702732</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Collections">
+      <created>1686538750960</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538750960</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Pars, Collections, ArrayList (Task 39 to 42)">
+      <created>1686626741309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686626741309</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Inheritance">
+      <created>1686787473364</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686787473364</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Inheritance and Interface">
+      <created>1686805076475</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686805076475</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Exceptions, Multithreading, Random, Timer, Random timer">
+      <created>1686974836833</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686974836833</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Exceptions, Multithreading, Random, Timer, Random timer">
+      <created>1686976449742</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686976449742</updated>
+    </task>
+    <task id="LOCAL-00022" summary="save folder">
+      <created>1686979384515</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686979384515</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add ignore file">
+      <created>1686979818681</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686979818681</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add ignore file">
+      <created>1686979967853</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686979967853</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add ignore file">
+      <created>1686980048994</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686980048994</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add ignore file">
+      <created>1686981533225</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686981533225</updated>
+    </task>
+    <task id="LOCAL-00027" summary="delete file">
+      <created>1686981575098</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1686981575098</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add test">
+      <created>1686981606725</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1686981606725</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The mistake of the merge and crookedness. I'm deleting the main branch and merge to the main one" />
+    <MESSAGE value="Add task for last week" />
+    <MESSAGE value="Add all projects" />
+    <MESSAGE value="Add task 24 - Seasons in the Year" />
+    <MESSAGE value="OOP - reference types" />
+    <MESSAGE value="OOP - void and return" />
+    <MESSAGE value="OOP Methods - Basic and Parameterized Method" />
+    <MESSAGE value="OOP Parameterized Methods and Rect task" />
+    <MESSAGE value="OOP - Constructor and task Employee" />
+    <MESSAGE value="OOP - Overload and Overload in Constructor" />
+    <MESSAGE value="Task 33 Overload in Monster" />
+    <MESSAGE value="Task 33 Overload in Monster and task 34 Parameters" />
+    <MESSAGE value="Task 35 to 35 - Modifiers and Parameters" />
+    <MESSAGE value="Collections" />
+    <MESSAGE value="Pars, Collections, ArrayList (Task 39 to 42)" />
+    <MESSAGE value="Inheritance" />
+    <MESSAGE value="Inheritance and Interface" />
+    <MESSAGE value="Exceptions, Multithreading, Random, Timer, Random timer" />
+    <MESSAGE value="save folder" />
+    <MESSAGE value="add ignore file" />
+    <MESSAGE value="delete file" />
+    <MESSAGE value="add test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test" />
+  </component>
+</project>
