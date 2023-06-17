@@ -5,40 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task44_OOP_InheritanceBoxWeight/box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task44_OOP_InheritanceBoxWeight/box/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task44_OOP_InheritanceBoxWeight/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task45_OOP_InheritanceFigure/ColorRect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task45_OOP_InheritanceFigure/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task45_OOP_InheritanceFigure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task45_OOP_InheritanceFigure/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task45_OOP_InheritanceFigure/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/CanRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/animals/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/animals/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/main/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task46_OOP_Interface/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/Interface/CodeWritable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/Interface/Cookable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/Interface/Drivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Cooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/main/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task47_OOP_IntarfaceEmploees/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task48_OOP_InheritanceAndIntarface/Cookable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task48_OOP_InheritanceAndIntarface/Cooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task48_OOP_InheritanceAndIntarface/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task48_OOP_InheritanceAndIntarface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task49_OOP_CounterForDirector/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task49_OOP_CounterForDirector/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task49_OOP_CounterForDirector/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task49_OOP_CounterForDirector/MyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task50_Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task51_Multithreading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task51_Multithreading/RunnableTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_RandomNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/RunnableTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/Timer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/Timer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task54_TimerRandom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Task54_TimerRandom/RunnableTimer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year2023/Task41_OOP_CollectionsArrayList/ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +60,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Year2023" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Year2023.Task51_Multithreading" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task49_OOP_CounterForDirector.Main" />
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task54_TimerRandom.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task49_OOP_CounterForDirector.*" />
+          <option name="PATTERN" value="Year2023.Task54_TimerRandom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task45_OOP_InheritanceFigure.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task45_OOP_InheritanceFigure.Main" />
+    <configuration name="Timer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task53_Multithreading.Timer1" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task45_OOP_InheritanceFigure.*" />
+          <option name="PATTERN" value="Year2023.Task53_Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task46_OOP_Interface.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task46_OOP_Interface.main.Main" />
+    <configuration name="Timer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task53_Multithreading.Timer2" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task46_OOP_Interface.main.*" />
+          <option name="PATTERN" value="Year2023.Task53_Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task47_OOP_IntarfaceEmploees.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task47_OOP_IntarfaceEmploees.main.Main" />
+    <configuration name="Year2023.Task52_RandomNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task52_RandomNumber.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task47_OOP_IntarfaceEmploees.main.*" />
+          <option name="PATTERN" value="Year2023.Task52_RandomNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task48_OOP_InheritanceAndIntarface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task48_OOP_InheritanceAndIntarface.Main" />
+    <configuration name="Year2023.Task52_StringToRandomeNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task52_StringToRandomeNumber.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task48_OOP_InheritanceAndIntarface.*" />
+          <option name="PATTERN" value="Year2023.Task52_StringToRandomeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,10 +133,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Year2023.Task48_OOP_InheritanceAndIntarface.Main" />
-        <item itemvalue="Application.Year2023.Task47_OOP_IntarfaceEmploees.main.Main" />
-        <item itemvalue="Application.Year2023.Task46_OOP_Interface.main.Main" />
-        <item itemvalue="Application.Year2023.Task45_OOP_InheritanceFigure.Main" />
+        <item itemvalue="Application.Timer2" />
+        <item itemvalue="Application.Timer1" />
+        <item itemvalue="Application.Year2023.Task52_RandomNumber.Main" />
+        <item itemvalue="Application.Year2023.Task52_StringToRandomeNumber.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686787473364</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Inheritance and Interface">
+      <created>1686805076475</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686805076475</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +325,7 @@
     <MESSAGE value="Collections" />
     <MESSAGE value="Pars, Collections, ArrayList (Task 39 to 42)" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Inheritance and Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and Interface" />
   </component>
 </project>
