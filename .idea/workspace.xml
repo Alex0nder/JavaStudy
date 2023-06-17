@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task50_Exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task51_Multithreading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task51_Multithreading/RunnableTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_RandomNumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task52_StringToRandomeNumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/RunnableTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/Timer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task53_Multithreading/Timer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task54_TimerRandom/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2023/Task54_TimerRandom/RunnableTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUnit/JUnit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUnit/JUnit/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUnit/JUnit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUnit/JUnit/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +56,7 @@
       <recent name="Year2023.Task51_Multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Year2023.Task55_JUnitTest.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year2023.Task54_TimerRandom.Main" />
       <module name="JavaStudy" />
@@ -117,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Year2023.Task52_StringToRandomeNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year2023.Task52_StringToRandomeNumber.Main" />
+    <configuration name="Year2023.Task55_JUnitTest.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year2023.Task55_JUnitTest.Main" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year2023.Task52_StringToRandomeNumber.*" />
+          <option name="PATTERN" value="Year2023.Task55_JUnitTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Year2023.Task55_JUnitTest.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Timer2" />
         <item itemvalue="Application.Timer1" />
         <item itemvalue="Application.Year2023.Task52_RandomNumber.Main" />
-        <item itemvalue="Application.Year2023.Task52_StringToRandomeNumber.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686805076475</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exceptions, Multithreading, Random, Timer, Random timer">
+      <created>1686974836833</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686974836833</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +325,7 @@
     <MESSAGE value="Pars, Collections, ArrayList (Task 39 to 42)" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance and Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and Interface" />
+    <MESSAGE value="Exceptions, Multithreading, Random, Timer, Random timer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, Multithreading, Random, Timer, Random timer" />
   </component>
 </project>
