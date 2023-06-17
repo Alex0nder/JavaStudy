@@ -4,13 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="Exceptions, Multithreading, Random, Timer, Random timer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e3c05a0-af43-4de0-bf9f-0abd7ee58dfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task24_SeasonsInTheYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task25_OOP_Methods/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task25_OOP_Methods/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task26_OOP_MethodsDog/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task26_OOP_MethodsDog/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task27_OOP_ParameterizedMethods/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task27_OOP_ParameterizedMethods/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task27_OOP_ParameterizedMethods/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task28_OOP_Rect/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task28_OOP_Rect/Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task29_OOP_Constructor/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task29_OOP_Constructor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task30_OOP_Employee/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task30_OOP_Employee/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task31_OOP_Overload/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task31_OOP_Overload/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task32_OOP_OverloadConstructor/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task32_OOP_OverloadConstructor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task33_OOP_OverloadMonster/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task33_OOP_OverloadMonster/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task34_OOP_ObjectsAsParameters/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task34_OOP_ObjectsAsParameters/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task35_OOP_ObjectBox/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task35_OOP_ObjectBox/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task36_OOP_Modifiers/Box/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task36_OOP_Modifiers/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task36_OOP_Modifiers/test/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task37_OOP_StaticFinalArguments/box/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task37_OOP_StaticFinalArguments/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task37_OOP_StaticFinalArguments/test/MyMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task37_OOP_StaticFinalArguments/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task38_OOP_Collections/employees/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task38_OOP_Collections/employees/MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task38_OOP_Collections/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task39_OOP_Pars/Arraylist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task39_OOP_Pars/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task40_OOP_ParsArray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task40_OOP_ParsArray/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task41_OOP_CollectionsArrayList/ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task41_OOP_CollectionsArrayList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task42_OOP_ArrayListName/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task43_OOP_Inheritance/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task43_OOP_Inheritance/CatFamily.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task43_OOP_Inheritance/Lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task43_OOP_Inheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task44_OOP_InheritanceBoxWeight/box/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task44_OOP_InheritanceBoxWeight/box/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task44_OOP_InheritanceBoxWeight/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task45_OOP_InheritanceFigure/ColorRect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task45_OOP_InheritanceFigure/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task45_OOP_InheritanceFigure/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task45_OOP_InheritanceFigure/Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task45_OOP_InheritanceFigure/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/CanRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/Flyable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/animals/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/animals/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/animals/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/animals/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/main/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task46_OOP_Interface/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/Interface/CodeWritable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/Interface/Cookable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/Interface/Drivable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Cooker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/WhatWeDo/Programmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/main/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task47_OOP_IntarfaceEmploees/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task48_OOP_InheritanceAndIntarface/Cookable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task48_OOP_InheritanceAndIntarface/Cooker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task48_OOP_InheritanceAndIntarface/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task48_OOP_InheritanceAndIntarface/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task48_OOP_InheritanceAndIntarface/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task49_OOP_CounterForDirector/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task49_OOP_CounterForDirector/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task49_OOP_CounterForDirector/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task49_OOP_CounterForDirector/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task49_OOP_CounterForDirector/MyCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task50_Exceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task51_Multithreading/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task51_Multithreading/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task51_Multithreading/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task51_Multithreading/RunnableTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task52_RandomNumber/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task52_StringToRandomeNumber/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task52_StringToRandomeNumber/Empty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task52_StringToRandomeNumber/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/RunnableTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/Timer1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/Timer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/Timer2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/Timer2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task53_Multithreading/Timer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task54_TimerRandom/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task54_TimerRandom/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task54_TimerRandom/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task54_TimerRandom/RunnableTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task55_UnitTestCalculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/Year2023/Task55_UnitTestCalculator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year2023/Year2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -283,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686976449742</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="save folder">
+      <created>1686979384515</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686979384515</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +447,7 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance and Interface" />
     <MESSAGE value="Exceptions, Multithreading, Random, Timer, Random timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, Multithreading, Random, Timer, Random timer" />
+    <MESSAGE value="save folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="save folder" />
   </component>
 </project>
