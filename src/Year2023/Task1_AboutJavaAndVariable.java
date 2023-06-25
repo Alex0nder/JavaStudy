@@ -92,4 +92,18 @@ public class Task1_AboutJavaAndVariable {
     // getSize();
     // get(int index);
 
+    // ArrayList
+    // Get element for index - O(1) =  + Plus - Advantages
+    // Insert element in last list - O(1) = + Plus - Advantages
+
+    // Delete elements long - O(N) = - mines - Flaws
+    // insert element in the middle or Start list = - O(N) - mines - Flaws
+    // Change size massive not change for delete elements - Memory leak may occur = - mines - Flaw
+
+    // Get element by index - O(1)
+    // Insert an element at the end of the list - O(1)
+    // Removing an element - O(N)
+    // Inserting an element in the middle or beginning of the list - O(N)
+
+
 }
