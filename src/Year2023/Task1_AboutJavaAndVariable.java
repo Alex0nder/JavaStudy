@@ -129,15 +129,37 @@ public class Task1_AboutJavaAndVariable {
     // value = 7;
     // next;
 
-    // ***************************
-    // Collections
     // CarList: CarArrayList, CarlindedList         List: ArrayList      LinkedList
     // Get elements on index                           O(1)                O(N)
     // Add element at the end list                      O(1)                O(1)
     // Add element in start or middle list              O(N)                O(1)
     // Delete element on index                          O(N)                O(1)
 
+    // If need often delete element in collections or often add objects in the start or middle list - use LinkedList
+    // If delete elements from collections in LinkedList - memory clear right away, and in ArrayList - NO
 
+    // If need often add elements in the end list or get objects on index, use ArrayList.
+    // In documentations - Always instead basic massive use ArrayList
+
+    // Questions:
+    // 1) What is the difference between collections ArrayList and LinkedList
+    // - In ArrayList At the core lies an array (massive)
+    // - In LinkedList At the core linked list (links)
+    //
+    // 2) What is the algorithmic complexity of obtaining by index in ArrayList and LinkedList?
+    // - ArrayList O(1)  LinkedList O(N)
+    //
+    // 3) What is the algorithmic complexity of removing an element by index in ArrayList and LinkedList?
+    // - ArrayList O(N) inkedList O(1)
+    //
+    // 4) When should you use ArrayList instead of LinkedList?
+    // - If you often need to insert an element in the middle or beginning of the list,
+    // or you often need to remove objects from the collection, then you should use LinkedList
+    //
+    // 5) What problems can there be in "ArrayList" if many elements are constantly added and removed from it, what problems can arise?
+    // - Possible memory leak, due to the fact that the internal size of the array is not automatically reduced when elements are removed
+    //
+    // ***************************
 
 
 }
