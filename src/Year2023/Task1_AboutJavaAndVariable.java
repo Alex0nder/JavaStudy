@@ -92,8 +92,9 @@ public class Task1_AboutJavaAndVariable {
     // getSize();
     // get(int index);
 
+    // ***************************
     // ArrayList
-    // Get element for index - O(1) =  + Plus - Advantages
+    // Get element on index - O(1) =  + Plus - Advantages
     // Insert element in last list - O(1) = + Plus - Advantages
 
     // Delete elements long - O(N) = - mines - Flaws
@@ -104,6 +105,39 @@ public class Task1_AboutJavaAndVariable {
     // Insert an element at the end of the list - O(1)
     // Removing an element - O(N)
     // Inserting an element in the middle or beginning of the list - O(N)
+
+
+    // ***************************
+    //LinkedList
+    // class Node {
+    //    Node previous;
+    //    T value;
+    //    Node next;
+    // }
+
+    // Node first;      => Node1
+    // Node last;       => Node2
+    // int size = 4;
+
+    // Node1
+    // previous;
+    // value = 5;
+    // next;
+
+    // Node2
+    // previous
+    // value = 7;
+    // next;
+
+    // ***************************
+    // Collections
+    // CarList: CarArrayList, CarlindedList         List: ArrayList      LinkedList
+    // Get elements on index                           O(1)                O(N)
+    // Add element at the end list                      O(1)                O(1)
+    // Add element in start or middle list              O(N)                O(1)
+    // Delete element on index                          O(N)                O(1)
+
+
 
 
 }
